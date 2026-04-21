@@ -29,7 +29,7 @@ This project implements a full data pipeline from raw data to insights:
 - Mastercard (53.97%) and Visa (37.28%) dominate transaction share.
 
 ![Overview Table](image/overview_table.png)
-- Credit Cards represent 30.56% of transactions but show a significantly higher average value of $54.86, approximately 40% higher than Debit Cards. Debit (Prepaid) account for 6.87%, with a lower average transaction value of $21.72.
+- With Successful Transactions, Credit Cards represent 30.56% of transactions but show a significantly higher average value of $54.86, approximately 40% higher than Debit Cards, which account for 62.57% of total transaction volume, and average transaction value is $38.83. Debit (Prepaid) account for 6.87%, with a lower average transaction value of $21.72.
 
 
 👉 Insight:
