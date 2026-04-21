@@ -1,6 +1,6 @@
-# **🏦 Banking Transaction & Customer Segmentation Analysis**
+# **🏦 Banking Transaction & User Segmentation Analysis**
 
-This project analyzes banking performance from 2014 to 2018, focusing on transaction behavior, card usage, and customer segmentation to generate actionable business insights.
+This project analyzes banking performance from 2014 to 2018, focusing on transaction behavior, card usage, and user segmentation to generate actionable business insights.
 
 🔗 [**Click here to view Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiYzFmNDY3OGEtN2ZiNS00ZGZlLWJiNTUtMWM4NmYxZjU5ODNlIiwidCI6IjVlOGIzMjY5LTc2Y2EtNDU3Yy04NDdmLTQ0NGUzZGI5ODZhNyIsImMiOjl9)
 
@@ -37,7 +37,7 @@ This project implements a full data pipeline from raw data to insights:
 - Business is driven by **stable** but **low-growth** transaction volume
 - Credit cards are key for revenue growth.
 ## 2. Card & MCC Analysis
-![Card](image/3.card.png)
+<p align="center"> <img src="image/3.card.png" width="800"> </p>
 
 - Debit Cards dominate (61%), followed by Credit (31%) and Prepaid (8%) → users show conservative spending behavior 89.76% chip-enabled cards → strong shift toward **contactless payments**
 - Transactions concentrate in Groceries, Transportation, Food, Retail → **high-frequency, low-value spending**
@@ -48,7 +48,8 @@ This project implements a full data pipeline from raw data to insights:
 - Depends on certain type of categories
 
 ## 3. Customer & RFM Segmentation
-![user](image/4.user.png)
+<p align="center"> <img src="image/4.user.png" width="800"> </p>
+
 - Among active users, the 36–50 age group accounts for 35.06%, representing the largest segment with stable income and high spending demand. This is followed by the 51–65 group (31.03%) and 66+ (20.74%).
 - There is a clear positive correlation between income and spending level. However, this also raises concerns from a risk management perspective, as higher spending may be associated with increased debt exposure.
 - RFM Segment:
